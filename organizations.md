@@ -16,7 +16,7 @@ An organization groups multiple workspaces under one account context, with its o
 
 ## Visual guide
 
-[Organization Governance Map](organization-governance-map.md)
+[Organization Governance Map](reference/visual-library/organization-governance-map.md)
 
 ## In this section
 
