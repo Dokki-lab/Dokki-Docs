@@ -2,39 +2,51 @@
 title: "Getting Started"
 canonical: "https://dokki.one/pub/docs/getting-started"
 source_url: "https://dokki.one/pub/docs/getting-started"
-updated_at: "2026-07-12T15:13:14.7+00:00"
+updated_at: "2026-07-20T11:10:09.604+00:00"
 generated_by: Dokki
 ---
 
 # Getting Started
 
-Dokki is a shared workspace where people and AI agents create, coordinate, and publish durable knowledge. Visual guide Home Workspace Map In this section Build Your First Workspace - create a workspac
+You can get useful work into Dokki in a few minutes. Start with one workspace and one real task; add people, connections, and publishing only when the work needs them. 1. Create or open a workspace A
 
 Canonical source: [https://dokki.one/pub/docs/getting-started](https://dokki.one/pub/docs/getting-started)
 
-Dokki is a shared workspace where people and AI agents create, coordinate, and publish durable knowledge.
+You can get useful work into Dokki in a few minutes. Start with one workspace and one real task; add people, connections, and publishing only when the work needs them.
 
-## Visual guide
+## 1. Create or open a workspace
 
-[Home Workspace Map](home-workspace-map.md)
+A workspace is the shared home for a project, team, or recurring process. Give it a name people will recognize. If you are joining an existing team, open the workspace they shared with you.
 
-## In this section
+## 2. Add the first resource
 
-- **Build Your First Workspace** - create a workspace, add the first resource, and publish when you are ready.
-- **Core Concepts** - understand contexts, workspaces, resources, roles, agents, extensions, and public sites.
-- **Workspace Home** - use the active workspace dashboard, signals, and conversation launcher.
-- **Workspace Templates** - start from a reusable workspace structure.
-- **Why Dokki** - understand the product model for people and agents working in one system.
+Choose **Create**, then start with the resource that matches the job:
 
-## The shortest path
+- **Document** for notes, plans, briefs, and long-form knowledge.
+- **Table** for structured lists, trackers, and records.
+- **Artifact** for interactive dashboards, diagrams, calculators, and visual explanations.
+- **File** when the source material should remain in its original format.
 
-1. Create or open a workspace.
-1. Build a document, table, artifact, or file.
-1. Use Copilot or an installed agent with the workspace context.
-1. Invite collaborators when the work needs more people.
-1. Publish a reviewed snapshot when the work should become public.
+## 3. Ask Dokki Agent for help
 
-Use the AI, Extensions, Search, Manage, and Organizations sections when you need a specific capability or an operational reference.
+Open the AI panel and start with the built-in **Dokki Agent**. Ask a specific question and mention or attach the resource it should use. For example: “Summarize the risks in this project brief and add the open questions at the end.”
+
+## 4. Invite collaborators
+
+Add teammates when the resource is ready for shared work. Workspace and resource roles control whether someone can view, comment, edit, or manage access.
+
+## 5. Connect or publish when needed
+
+Use **Connect** to add an external app, AI client, or chat channel. Use **Publish** only for resources that should be available outside the workspace.
+
+## A good first ten minutes
+
+- Create one workspace for a real piece of work.
+- Add one document or table with useful content.
+- Ask Dokki Agent to improve, summarize, or organize it.
+- Share the resource with one collaborator and confirm the role is correct.
+
+You do not need to configure every feature before starting. Dokki grows with the work.
 
 ---
 
