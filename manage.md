@@ -16,7 +16,7 @@ Once you have documents, tables, artifacts, files, agents, and chats, use these 
 
 ## Visual guide
 
-[Collaboration Governance Map](collaboration-governance-map.md)
+[Collaboration Governance Map](reference/visual-library/collaboration-governance-map.md)
 
 ## In this section
 
