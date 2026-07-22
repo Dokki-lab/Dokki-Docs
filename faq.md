@@ -16,7 +16,7 @@ Quick answers to common Dokki questions.
 
 ## Visual guide
 
-[Home Workspace Map](home-workspace-map.md)
+[Home Workspace Map](reference/visual-library/home-workspace-map.md)
 
 ## People and agents
 
