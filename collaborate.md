@@ -16,7 +16,7 @@ Workspaces are where Dokki scopes collaboration, permissions, storage, AI usage,
 
 ## Visual guide
 
-[Permission Resolution Map](permission-resolution-map.md)
+[Permission Resolution Map](reference/visual-library/permission-resolution-map.md)
 
 ## In this section
 
