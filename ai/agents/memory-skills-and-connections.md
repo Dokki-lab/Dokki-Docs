@@ -2,7 +2,7 @@
 title: "Memory, Skills and Connections"
 canonical: "https://dokki.one/pub/docs/memory-skills-and-connections"
 source_url: "https://dokki.one/pub/docs/memory-skills-and-connections"
-updated_at: "2026-07-10T04:50:22.805+00:00"
+updated_at: "2026-07-22T11:13:26.828+00:00"
 generated_by: Dokki
 ---
 
